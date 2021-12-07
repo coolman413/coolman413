@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @coolman413
-- 👀 I’m interested in ... Javascript And Basketball
-- 🌱 I’m currently learning ... Web Devolpment and python 3
-- 💞️ I’m looking to collaborate on ... Many projects
-- 📫 How to reach me Lasavior6@gmail.com
-- TrueCoders Certificate of Completion https://app.digit.ink/view-credential/d458569b-8c56-4fa8-89d0-46b21e6e14c9
+I'm a  Coolman413 a Junior Developer at LittleHarvard, which maintains a mix of education and fun interactive products, in-house frameworks based around .net, Visual Basic, JavaScript, and SQL, and modern frameworks such as React. native for newer projects.
 
-<!---
-coolman413/coolman413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Many of my personal projects have been created using JavaScript, React, Bootstrap, and PostgreSQL, however, I am always looking to challenge myself and learn something new when I take on a new project.
+
+
+When I'm not programming, I spend a lot of time with my family building my faith, and spending good times with friends.
+
+Reach Me at lasavior6@gmail.com
+or my linkin www.linkedin.com/in/stevencooley413
