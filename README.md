@@ -1,7 +1,7 @@
-I'm a  Coolman413 a Junior Developer at LittleHarvard, which maintains a mix of education and fun interactive products, in-house frameworks based around .net, Visual Basic, JavaScript, and SQL, and modern frameworks such as React. native for newer projects.
+I'm a  Coolman413 a Developer at Frost-Byte Tech, which maintains a mix of education and fun interactive products, in-house frameworks based around .net, Visual Basic, JavaScript, and SQL, and modern frameworks such as React. native for newer projects.
 
 
-Many of my personal projects have been created using JavaScript, React, Bootstrap, and PostgreSQL, however, I am always looking to challenge myself and learn something new when I take on a new project.
+Many of my personal projects have been created using JavaScript, React, Bootstrap, and PostgreSQL and C#, I am always looking to challenge myself and learn something new when I take on a new project.
 
 
 When I'm not programming, I spend a lot of time with my family building my faith, and spending good times with friends.
